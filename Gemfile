@@ -13,6 +13,8 @@ gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 # Use bootstrap to create views with devise
 gem 'devise-bootstrap-views'
+# Make certain icons show up properly
+gem 'font-awesome-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
