@@ -15,6 +15,8 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 # Make certain icons show up properly
 gem 'font-awesome-rails'
+# Use stripe for processing payments
+gem 'stripe'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
