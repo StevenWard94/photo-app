@@ -37,8 +37,12 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use carrierwave to assist with file (i.e. photo) uploads
+gem 'carrierwave', '~> 1.0'
 # Use ActiveStorage variant
-# gem 'mini_magick', '~> 4.8'
+gem 'mini_magick', '~> 4.8'
+# Add the Ruby cloud services library
+gem 'fog'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
